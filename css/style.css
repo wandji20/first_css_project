@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background-color: #4f8a8b;
+  margin: auto;
+
+}
+#header{
+  color: #f4f6ff;
+
+}
+.form-container{
+  width: 70%;
+  background-color: #ffcb74;
+  padding: 20px;
+  margin: auto;
+  color: #ff4301;
+
+}
+.input-item{
+  display: block;
+}
